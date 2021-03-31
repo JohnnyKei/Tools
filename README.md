@@ -39,3 +39,8 @@ https://www.postman.com/
 
 ### insomnia
 https://insomnia.rest/
+
+
+https://kaleidoscope.app/
+
+https://www.git-tower.com/mac
